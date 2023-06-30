@@ -1,0 +1,16 @@
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.csproj.AssemblyReference.cache
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.AssemblyInfoInputs.cache
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.AssemblyInfo.cs
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.csproj.CoreCompileInputs.cache
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.exe
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.deps.json
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.runtimeconfig.json
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.runtimeconfig.dev.json
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.dll
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\serialize.pdb
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.dll
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.pdb
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.genruntimeconfig.cache
+C:\Users\korotkovaa\source\repos\serialize\serialize\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\korotkovaa\source\repos\serialize\serialize\obj\Debug\netcoreapp3.1\serialize.csproj.CopyComplete
