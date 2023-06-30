@@ -43,10 +43,6 @@
             "Bogus": {
               "target": "Package",
               "version": "[34.0.2, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
             }
           },
           "imports": [

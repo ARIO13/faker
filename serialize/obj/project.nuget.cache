@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z7a66wDi28RzlNMO/lwWwF9BpmftyzcWrUzjNFTEm8HMhoHCNEiGklN5gYOOH/9n8Sf947fCVjcP47YrYTajLQ==",
+  "dgSpecHash": "q1qdMRkScudR2v6BCps2L+v1+RJ7Q3epgTaRbP7ANifeLDGO0IQu1Zx+MP4+2KUAITacX71ppV3ZeDE3Rk7iVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\korotkovaa\\source\\repos\\serialize\\serialize\\serialize.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\korotkovaa\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
-    "C:\\Users\\korotkovaa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\korotkovaa\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
   ],
   "logs": []
 }
